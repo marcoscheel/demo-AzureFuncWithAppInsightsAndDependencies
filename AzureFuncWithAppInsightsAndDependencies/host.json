@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "functionTimeout": "01:00:00",
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": false
+      }
+    },
+    "logLevel": {
+      "default": "Error",
+      "Function": "Information",
+      "Host": "Information"
+    }
+  }
+}
